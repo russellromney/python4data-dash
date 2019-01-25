@@ -121,7 +121,6 @@ def return_new_graph_figure(col_name):
 
 if __name__=='__main__':
     app.run_server(
-        debug=True,
-        port = 8002
+
     )
 
